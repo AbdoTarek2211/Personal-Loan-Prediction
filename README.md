@@ -1,3 +1,27 @@
+# Personal Loan Classification
+
+This project aims to classify whether a bank customer will accept a personal loan offer based on various demographic and banking-related factors using machine learning algorithms.
+
+## About
+
+The goal of this project is to predict whether a customer will accept a personal loan offer from a bank. The dataset used contains information about customers including age, income, education, and other banking-related attributes. Machine learning algorithms such as Decision Tree, Logistic Regression, and Random Forest are employed to build predictive models. The models are evaluated using various metrics such as accuracy, precision, recall, and F1-score.
+
+## Dependencies
+
+- pandas
+- matplotlib
+- seaborn
+- numpy
+- mlxtend
+- scikit-learn
+
+## Installation
+
+You can install the required dependencies using pip:
+
+```bash
+pip install pandas matplotlib seaborn numpy mlxtend scikit-learn
+```
 Description:
 
 The Loan Eligibility Predictor is an innovative machine learning model designed to assist financial institutions in evaluating loan applications efficiently and accurately. This GitHub repository hosts a comprehensive solution that empowers lenders to make informed decisions by predicting whether a user is eligible to receive a loan. Leveraging the power of advanced algorithms and predictive analytics, this model streamlines the loan approval process, ensuring fairness, transparency, and improved customer experience.
